@@ -1,7 +1,6 @@
 
 -   [Variables](https://github.com/Alicannklc/Scss-Cheatsheet#variables)
 -   [Nesting](https://github.com/Alicannklc/Scss-Cheatsheet#nesting)
--   [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
 -   [@Extend](https://github.com/Alicannklc/Scss-Cheatsheet#extend)
 -   [Mixin](https://github.com/Alicannklc/Scss-Cheatsheet#mixin)
 -   [Import](https://github.com/Alicannklc/Scss-Cheatsheet#import)
